@@ -1,0 +1,29 @@
+C:\Users\Administrator\source\repos\Document Task\Document Task\bin\Debug\net6.0\Document Task.exe
+C:\Users\Administrator\source\repos\Document Task\Document Task\bin\Debug\net6.0\Document Task.deps.json
+C:\Users\Administrator\source\repos\Document Task\Document Task\bin\Debug\net6.0\Document Task.runtimeconfig.json
+C:\Users\Administrator\source\repos\Document Task\Document Task\bin\Debug\net6.0\Document Task.dll
+C:\Users\Administrator\source\repos\Document Task\Document Task\bin\Debug\net6.0\Document Task.pdb
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.dll
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\refint\Document Task.dll
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.pdb
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\Document Task.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Document Task\Document Task\obj\Debug\net6.0\ref\Document Task.dll
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\bin\Debug\net6.0\Document Task.exe
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\bin\Debug\net6.0\Document Task.deps.json
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\bin\Debug\net6.0\Document Task.runtimeconfig.json
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\bin\Debug\net6.0\Document Task.dll
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\bin\Debug\net6.0\Document Task.pdb
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.csproj.AssemblyReference.cache
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.AssemblyInfoInputs.cache
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.AssemblyInfo.cs
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.csproj.CoreCompileInputs.cache
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.dll
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\refint\Document Task.dll
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.pdb
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\Document Task.genruntimeconfig.cache
+C:\Users\Husey_lo34\Downloads\Document Task-20230917T044200Z-001\Document Task\Document Task\obj\Debug\net6.0\ref\Document Task.dll
